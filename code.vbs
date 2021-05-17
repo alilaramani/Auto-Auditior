@@ -306,7 +306,7 @@ strbody = "<b>Web Access:</b> " & StrAccess & "<br><br>" & "<b>Symantec Version:
 
 With OutMail
 
-                .To = "rmadhukar@hawk.iit.edu"
+                .To = "alilaramani1@hawk.iit.edu"
 
                 .CC = ""
 
